@@ -2,3 +2,4 @@
 Unity chan pixel demo
 素材来自https://unity-chan.com/
 授权信息：UCL2.02
+https://unity-chan.com/download/releaseNote.php?id=UnityChanLicenseDoc
